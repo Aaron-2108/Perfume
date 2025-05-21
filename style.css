@@ -41,7 +41,7 @@ img {
 }
 
 .name {
-    font-family: 'Montserrat';
+    font-family: 'Fraunces',san-serif;
     font-size: 10px;
     letter-spacing: 4px;
     color: var(--Grey);
