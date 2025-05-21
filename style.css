@@ -41,7 +41,7 @@ img {
 }
 
 .name {
-    font-family: 'Fraunces',san-serif;
+    font-family: 'Montserrat',san-serif;
     font-size: 10px;
     letter-spacing: 4px;
     color: var(--Grey);
@@ -55,7 +55,7 @@ img {
 .description {
     margin-top: 20px;
     font-size: 12px;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Fraunces',sans-serif;
     color: var(--Grey);
 }
 
